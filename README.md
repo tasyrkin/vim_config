@@ -11,6 +11,6 @@ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 vim ./.vimrc```
 
-#type in vim
+//type in vim
 :PluginInstall
 ```
