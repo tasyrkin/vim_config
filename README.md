@@ -3,12 +3,11 @@ vim_config
 
 Contains .vimrc and package manager installation instructions
 
-Steps:
+#Installation
 
-```cp ./.vimrc ~/```
+copy .vimrc from project dir to your home directory
 
-```git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle```
-
-```vim ./.vimrc```
-
-```:PluginInstall```
+1. ```cp ./.vimrc ~/```
+2. ```git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle```
+3. ```vim ./.vimrc```
+4. ```:PluginInstall``` execute in vim editor
