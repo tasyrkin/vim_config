@@ -5,10 +5,12 @@ Contains .vimrc and package manager installation instructions
 
 Steps:
 
-```cp ./.vimrc ~/```
+```cp ./.vimrc ~/
 
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
-vim ./.vimrc
+vim ./.vimrc```
 
+#type in vim
 :PluginInstall
+```
