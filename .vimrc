@@ -93,7 +93,7 @@ set hls " highlight search
 set lbr " linebreak
 
 " Use 2 space instead of tab during format
-set noexpandtab
+set expandtab
 set shiftwidth=2
 set softtabstop=2
 set tabstop=2
