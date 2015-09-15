@@ -12,6 +12,7 @@ Plugin 'gmarik/vundle'
 Bundle 'justinmk/vim-syntax-extra'
 Bundle 'altercation/solarized'
 Bundle 'altercation/vim-colors-solarized'
+Bundle 'tpope/vim-fugitive'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between here and filetype plugin indent on.
